@@ -3,7 +3,7 @@
     <parent>
         <artifactId>pet-clinic</artifactId>
         <groupId>np.info.ashok</groupId>
-        <version>0.0.2-SNAPSHOT</version>
+        <version>0.0.2</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
@@ -57,6 +57,6 @@
 
     <scm>
         <developerConnection>scm:git:git@github.com:ashokadhikari92/spring-pet-clinic.git</developerConnection>
-      <tag>HEAD</tag>
+      <tag>pet-clinic-0.0.2</tag>
   </scm>
 </project>
